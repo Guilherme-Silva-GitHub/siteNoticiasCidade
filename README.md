@@ -1,4 +1,4 @@
-# Site Notícias Cidade
+# Site Notícias Cidade - Layout Fixo
 
 The City News website is a versatile and informative platform that strives to keep users well-informed about a wide range of topics.
 It's a dynamic online platform designed to offer a comprehensive and diverse range of news content on various themes and topics.
